@@ -1,2 +1,2 @@
 # web-project
-hand wifi vendo login
+handlink wifi vendo login
